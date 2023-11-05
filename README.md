@@ -3,9 +3,9 @@
  Le code source n'est pas disponible.
 
  Pour utiliser les applications, vous devez répondre aux pré-requis suivants:
- . Avoir un serveur Wazo Platform fonctionnel et accessible.
- . Avoir des utilisateurs dans le backend Wazo_user.
- . Avoir un certificat SSL valide (sauf pour la version en ligne avec Firefox)
+  - Avoir un serveur Wazo Platform fonctionnel et accessible.
+  - Avoir des utilisateurs dans le backend Wazo_user.
+  - Avoir un certificat SSL valide (sauf pour la version en ligne avec Firefox)
 
 # Version Web
 La version Web est disponible à l'adresse:
