@@ -13,6 +13,7 @@ La version Web est disponible à l'adresse:
 
 # Version Windows
 La version Windows est disponible dans les releases
+[Wazo Desktop Windows](https://github.com/duduclx/wazo-client-release/releases/download/V0.0.1/Wazo.Desktop.Setup.0.0.1.exe)
 
 # Version Mac
 La version Mac n'est pas encore disponible
